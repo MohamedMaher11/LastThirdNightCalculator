@@ -1,16 +1,7 @@
-# last_third_night
+Last Third of the Night Calculator
+This Flutter project is an application to calculate the last third of the night based on the user's local sunset and sunrise times. The last third of the night is a significant time in many cultures and religions for prayer and reflection.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Sunset and Sunrise Input: Allows users to input their local sunset and sunrise times.
+Calculation: Automatically calculates the time period for the last third of the night.
+User-Friendly Interface: Simple and intuitive UI for easy use.
